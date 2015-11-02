@@ -2,8 +2,9 @@
 
 
 import pynder
-FBID = "1479365245705394"
-access_token="CAAGm0PX4ZCpsBAKc6gJBIZArWxAvZBsHBqm9VZA6xLHWfORFAnbP1kEpKWBp2xjBXUL013gLSgJQffj8Wo7p4FFk7ZC8iK3me2jZB2ZA4iyGGpD3xrLnoRXpLloXZAo9pFsXQKbIlIKJZBipZCAP8VxOcHDQQsdV4q6QAa15KB1ri1PorwuuCrOnxSEtkP94c9ZBKz2F46id5IOdQZDZD"
+#You need to make a facebook developers app to get these
+FBID = ""
+access_token=""
 session = pynder.Session(FBID,FACEBOOK_TOKEN)
 
 
